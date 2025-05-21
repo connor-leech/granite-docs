@@ -14,11 +14,15 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Models",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "granite",
+              "vision",
+              "speech",
+              "guardian",
+              "embedding",
+              "time-series",
+              "code"
             ]
           },
           {
