@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Docs",
         "groups": [
           {
             "group": "Models",
@@ -26,14 +26,32 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Run Granite",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "run/ollama",
+              "run/vllm",
+              "run/lm-studio",
+              "run/cloud"
+            ]
+          },
+          {
+            "group": "Fine-tuning",
+            "pages": [
+              "fine-tune/granite",
+              "fine-tune/time-series"
+            ]
+          },
+          {
+            "group": "Use cases",
+            "pages": [
+              "use-cases/granite-bee",
+              "use-cases/agentic-rag",
+              "use-cases/multimodal-rag",
+              "use-cases/docling-rag",
+              "use-cases/prompt-declaration-language",
+              "use-cases/forecast-energy-demand",
+              "use-cases/coding-assistant",
+              "use-cases/all-cookbooks"
             ]
           }
         ]
