@@ -16,13 +16,13 @@
           {
             "group": "Models",
             "pages": [
-              "granite",
-              "vision",
-              "speech",
-              "guardian",
-              "embedding",
-              "time-series",
-              "code"
+              "models/granite",
+              "models/vision",
+              "models/speech",
+              "models/guardian",
+              "models/embedding",
+              "models/time-series",
+              "models/code"
             ]
           },
           {
