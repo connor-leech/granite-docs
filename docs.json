@@ -10,7 +10,7 @@
    "fonts": {
     "family": "IBM Plex Sans",
     "weight": 400,
-    "source": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap",
+    "source": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap",
     "format": "woff2",
     "body": {
       "family": "IBM Plex Sans",
