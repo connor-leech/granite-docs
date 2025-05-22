@@ -69,21 +69,19 @@
         ]
       },
       {
-        "tab": "Cookbook",
+        "tab": "Cookbooks",
         "groups": [
           {
-            "group": "Cookbook",
+            "group": "Use cases",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "use-cases/granite-bee",
+              "use-cases/agentic-rag",
+              "use-cases/multimodal-rag",
+              "use-cases/docling-rag",
+              "use-cases/prompt-declaration-language",
+              "use-cases/forecast-energy-demand",
+              "use-cases/coding-assistant",
+              "use-cases/all-cookbooks"
             ]
           }
         ]
