@@ -52,19 +52,6 @@
               "fine-tune/granite",
               "fine-tune/time-series"
             ]
-          },
-          {
-            "group": "Use cases",
-            "pages": [
-              "use-cases/granite-bee",
-              "use-cases/agentic-rag",
-              "use-cases/multimodal-rag",
-              "use-cases/docling-rag",
-              "use-cases/prompt-declaration-language",
-              "use-cases/forecast-energy-demand",
-              "use-cases/coding-assistant",
-              "use-cases/all-cookbooks"
-            ]
           }
         ]
       },
