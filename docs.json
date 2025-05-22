@@ -110,7 +110,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Download Granite",
       "href": "https://dashboard.mintlify.com"
     }
   },
