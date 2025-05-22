@@ -121,10 +121,10 @@
       "linkedin": "https://linkedin.com/company/mintlify"
     },
     "fonts": {
-  "family": "Roboto",
-  "weight": 400,
-  "source": "https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap",
-  "format": "woff2"
+      "family": "Roboto",
+      "weight": 400,
+      "source": "https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap",
+      "format": "woff2"
     }
   }
 }
