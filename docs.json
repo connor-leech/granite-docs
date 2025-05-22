@@ -7,6 +7,18 @@
     "light": "#ffffff",
     "dark": "#000000"
   },
+   "fonts": {
+    "family": "IBM Plex Sans",
+    "weight": 400,
+    "source": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap",
+    "format": "woff2",
+    "body": {
+      "family": "IBM Plex Sans",
+      "weight": 400,
+      "source": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap",
+      "format": "woff2"
+    }
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
