@@ -119,12 +119,6 @@
       "x": "https://x.com/mintlify",
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
-    },
-    "fonts": {
-      "family": "IBM Plex Sans",
-      "weight": 400,
-      "source": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400&display=swap",
-      "format": "woff2"
     }
   }
 }
