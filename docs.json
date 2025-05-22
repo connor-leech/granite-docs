@@ -72,7 +72,7 @@
         "tab": "Cookbook",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Cookbook",
             "pages": [
               "api-reference/introduction"
             ]
