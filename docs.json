@@ -61,7 +61,7 @@
           {
             "group": "Use cases",
             "pages": [
-              "use-cases/index",
+              "use-cases/cookbooks",
               "use-cases/granite-bee",
               "use-cases/agentic-rag",
               "use-cases/multimodal-rag",
